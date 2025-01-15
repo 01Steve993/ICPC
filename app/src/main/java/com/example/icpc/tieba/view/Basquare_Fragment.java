@@ -1,4 +1,4 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.view;
 
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
@@ -17,6 +17,8 @@ import android.view.ViewGroup;
 
 import com.example.icpc.R;
 import com.example.icpc.database.DatabaseHelper;
+import com.example.icpc.tieba.control.BoardAdapter;
+import com.example.icpc.tieba.control.ContentPagerAdapter;
 
 import java.util.ArrayList;
 import java.util.HashMap;

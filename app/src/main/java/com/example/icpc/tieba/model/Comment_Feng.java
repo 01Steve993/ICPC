@@ -1,4 +1,4 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.model;
 
 // 评论类，表示文章中的一条评论
 public class Comment_Feng {

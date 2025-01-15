@@ -1,10 +1,13 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.view;
 
 import android.app.Application;
 
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
+
+import com.example.icpc.tieba.model.Comment_Feng;
+import com.example.icpc.tieba.model.Post;
 
 import java.util.List;
 

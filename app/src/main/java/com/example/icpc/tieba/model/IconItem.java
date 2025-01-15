@@ -1,4 +1,4 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.model;
 
 public class IconItem {
     private int iconResId;

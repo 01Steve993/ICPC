@@ -1,4 +1,4 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.view;
 
 import android.content.Context;
 import android.content.Intent;
@@ -21,6 +21,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.icpc.R;
+import com.example.icpc.tieba.control.CommentAdapter_Feng;
+import com.example.icpc.tieba.model.Comment_Feng;
+import com.example.icpc.tieba.model.Post;
 
 import java.util.List;
 

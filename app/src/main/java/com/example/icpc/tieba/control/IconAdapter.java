@@ -1,4 +1,4 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.control;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,6 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.icpc.R;
+import com.example.icpc.tieba.model.IconItem;
 
 import java.util.List;
 

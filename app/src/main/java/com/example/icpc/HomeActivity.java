@@ -19,7 +19,7 @@ import com.example.icpc.history.History_Fragment;
 import com.example.icpc.message.MessageActivity;
 import com.example.icpc.myinfor.Profile_Fragment;
 import com.example.icpc.search.Search_Fragment;
-import com.example.icpc.tieba.Tieba_Fragment;
+import com.example.icpc.tieba.view.Tieba_Fragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class HomeActivity extends AppCompatActivity {

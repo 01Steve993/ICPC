@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:orientation="vertical"
-    tools:context=".tieba.PostContentActivity">
+    tools:context=".tieba.view.PostContentActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/content_toolbar"

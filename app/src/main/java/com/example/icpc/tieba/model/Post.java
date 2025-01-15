@@ -1,4 +1,4 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.model;
 
 // 帖子类，表示一个帖子
 public class Post {

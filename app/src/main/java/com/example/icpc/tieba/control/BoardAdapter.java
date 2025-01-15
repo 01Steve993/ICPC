@@ -1,4 +1,4 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.control;
 
 import android.view.LayoutInflater;
 import android.view.View;

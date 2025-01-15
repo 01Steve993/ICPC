@@ -1,9 +1,11 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.control;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
+
+import com.example.icpc.tieba.view.ContentFragment;
 
 import java.util.List;
 

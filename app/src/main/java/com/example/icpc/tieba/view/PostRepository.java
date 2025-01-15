@@ -1,4 +1,4 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.view;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,6 +8,9 @@ import android.database.sqlite.SQLiteDatabase;
 import androidx.lifecycle.MutableLiveData;
 
 import com.example.icpc.database.DatabaseHelper;
+import com.example.icpc.tieba.model.Comment_Feng;
+import com.example.icpc.tieba.model.Post;
+
 import java.util.ArrayList;
 import java.util.List;
 

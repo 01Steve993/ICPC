@@ -1,9 +1,12 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.control;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
+
+import com.example.icpc.tieba.view.Basquare_Fragment;
+import com.example.icpc.tieba.view.Myba_Fragment;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.view;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -16,6 +16,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.icpc.R;
 import com.example.icpc.database.DatabaseHelper;
+import com.example.icpc.tieba.control.MybaForumAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.icpc.tieba;
+package com.example.icpc.tieba.view;
 
 import android.os.Bundle;
 
@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.icpc.R;
+import com.example.icpc.tieba.control.TiebaPagerAdapter;
 import com.google.android.material.tabs.TabLayout;
 
 public class Tieba_Fragment extends Fragment {
